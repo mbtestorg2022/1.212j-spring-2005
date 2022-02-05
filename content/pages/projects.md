@@ -8,8 +8,57 @@ A half-semester student project was required of all students, centered around re
 
 Group Project Assignment ([PDF]({{< baseurl >}}/resources/project))
 
-| SITES | PRESENTATIONS | PAPERS |
-| --- | --- | --- |
-| Boston - Steve Alpert, Angela Ho, Lev Pinelis, and Tyler Smith | ([PDF]({{< baseurl >}}/resources/boston_presentat)) | ([PDF]({{< baseurl >}}/resources/boston_report)) |
-| Seattle - Bridget Downey, Travis Dunn, and Patrick Hart | ([PDF]({{< baseurl >}}/resources/seattle_presenta)) | ([PDF]({{< baseurl >}}/resources/seattle_report)) |
-| Mexico City - Fabio Gordillo, Rich Israels, Goldie Katzoff, John Ward, and Bernardo Ortiz | ([PDF]({{< baseurl >}}/resources/mexicocity_prese)) | ([PDF]({{< baseurl >}}/resources/mexicocity_repor))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SITES
+{{< thclose >}}
+{{< thopen >}}
+PRESENTATIONS
+{{< thclose >}}
+{{< thopen >}}
+PAPERS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Boston - Steve Alpert, Angela Ho, Lev Pinelis, and Tyler Smith
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/boston_presentat))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/boston_report))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Seattle - Bridget Downey, Travis Dunn, and Patrick Hart
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/seattle_presenta))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/seattle_report))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mexico City - Fabio Gordillo, Rich Israels, Goldie Katzoff, John Ward, and Bernardo Ortiz
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mexicocity_prese))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mexicocity_repor))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
