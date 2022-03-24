@@ -472,9 +472,9 @@ MA Executive Office of Transportation. "A Framework for Thinking -- A Plan for A
 
 _Seattle_
 
-IBI Group. "Puget Sound Regional ITS Architecture." June 2001. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB](https://ops.fhwa.dot.gov/its_arch_imp/sample_docs/Puget%20Sound%20WA_Reg%20Arch_Agreements.htm))
+IBI Group. "Puget Sound Regional ITS Architecture." June 2001. ([PDF - 1.8MB](https://ops.fhwa.dot.gov/its_arch_imp/sample_docs/Puget%20Sound%20WA_Reg%20Arch_Agreements.htm))
 
-IBI Group. "Puget Sound Regional Council Intelligent Transportation Systems Regional Architecture." December 18, 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.psrc.org/sites/default/files/final_report_20aug-06_updated_22dec-08.pdf))
+IBI Group. "Puget Sound Regional Council Intelligent Transportation Systems Regional Architecture." December 18, 2008. ([PDF](https://www.psrc.org/sites/default/files/final_report_20aug-06_updated_22dec-08.pdf))
 
 [Puget Sound Regional Council](https://www.psrc.org/). "Destination 2030," "Long Range Transportation Plan." Updated May 2001.
 
