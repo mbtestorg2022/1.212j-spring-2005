@@ -8,6 +8,7 @@ description: 'This resource includes the following topics:
   Key its concept.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/c6c85c367e0c7aa2b06ee1901716e134_lec1.pdf
 file_type: application/pdf
+parent_uid: 01b9b762-d656-64d3-a25c-bb9c3c5bd50d
 resourcetype: Document
 title: lec1.pdf
 uid: c6c85c36-7e0c-7aa2-b06e-e1901716e134

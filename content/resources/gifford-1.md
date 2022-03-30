@@ -6,6 +6,7 @@ description: 'This resource includes the following topics:
   reduction as an objective, Alternative perspectives on congestion, and Conclusions.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/99988261ea02eb9ec087017f545731da_gifford.pdf
 file_type: application/pdf
+parent_uid: 01b9b762-d656-64d3-a25c-bb9c3c5bd50d
 resourcetype: Document
 title: gifford.pdf
 uid: 99988261-ea02-eb9e-c087-017f545731da

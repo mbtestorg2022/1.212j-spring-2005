@@ -9,6 +9,7 @@ description: 'This resource includes the discussion on following topics:
   demonstration.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/1dab70b2376ae80ace106ca142d95247_wright.pdf
 file_type: application/pdf
+parent_uid: 01b9b762-d656-64d3-a25c-bb9c3c5bd50d
 resourcetype: Document
 title: wright.pdf
 uid: 1dab70b2-376a-e80a-ce10-6ca142d95247

@@ -11,6 +11,7 @@ description: 'This resource includes the following topics:
   Concluding Ideas.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/2b302f617c64011b977278ec5de39653_lec18.pdf
 file_type: application/pdf
+parent_uid: 01b9b762-d656-64d3-a25c-bb9c3c5bd50d
 resourcetype: Document
 title: lec18.pdf
 uid: 2b302f61-7c64-011b-9772-78ec5de39653

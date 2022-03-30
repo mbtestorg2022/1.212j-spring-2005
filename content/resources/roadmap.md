@@ -8,6 +8,7 @@ description: 'This resource includes the following topics:
   and References.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/12fc91ba41c81bf6c36e7a806e1ebb68_roadmap.pdf
 file_type: application/pdf
+parent_uid: c307f933-68f6-6430-75cd-35d5e0775150
 resourcetype: Document
 title: roadmap.pdf
 uid: 12fc91ba-41c8-1bf6-c36e-7a806e1ebb68

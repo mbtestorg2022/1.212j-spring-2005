@@ -7,6 +7,7 @@ description: 'This resource includes the following topics:
   And The T-Shaped Transportation Professional.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/a869a9dbd3c761e95f05946fcb3b3bd6_lec3.pdf
 file_type: application/pdf
+parent_uid: 01b9b762-d656-64d3-a25c-bb9c3c5bd50d
 resourcetype: Document
 title: lec3.pdf
 uid: a869a9db-d3c7-61e9-5f05-946fcb3b3bd6
