@@ -7,6 +7,11 @@ description: 'This resource includes the following topics:
   of atis, Two traffic levels, Conclusion, questions/issues, and wrap-up.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/b528f9f3f1ab42e06f50ddb677c82dd8_lec10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 01b9b762-d656-64d3-a25c-bb9c3c5bd50d
 resourcetype: Document
 title: lec10.pdf
